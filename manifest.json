@@ -1,0 +1,8 @@
+{
+  "name": "Khairaj Ram Portfolio",
+  "short_name": "Khairaj",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050810",
+  "theme_color": "#4fffb0"
+}
