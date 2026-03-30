@@ -867,3 +867,13 @@
   border-radius: 10px;
   border: 1px solid var(--accent);
 }
+
+.contact-link {
+  transition: all 0.25s ease;
+}
+
+.contact-link:hover {
+  transform: translateY(-3px);
+  border-color: var(--accent);
+  color: var(--accent);
+}
