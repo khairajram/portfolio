@@ -788,7 +788,7 @@
 
 .tech-stack {
   position: absolute;
-  top: 40;
+  top: 40px;
   right: 0;
   width: 50%;
   height: 100%;
@@ -816,8 +816,7 @@
 
 /* animation */
 @keyframes floatTech {
-  0%, 100% { transform: translateY(0); }
-  0%, 100% { transform: translateX(2); }
+  0%, 100% { transform: translateY(0) translateX(2px); }
   50% { transform: translateY(-12px); }
 }
 
